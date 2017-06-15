@@ -1,0 +1,24 @@
+[
+  {
+    "CODE": "AA",
+    "GROUP_NAME": "aaaaaa",
+    "GROUP_DESC": "aaaaaaaaa",
+    "CHILD_GROUP": [
+      {
+        "CODE": "AA",
+        "GROUP_NAME": "aaaaaa",
+        "CHILD_CODE": "bb"
+      },
+      {
+        "CODE": "AA",
+        "GROUP_NAME": "aaaaaa",
+        "CHILD_CODE": "cc"
+      },
+      {
+        "CODE": "AA",
+        "GROUP_NAME": "aaaaaa",
+        "CHILD_CODE": "dd"
+      }
+    ]
+  }
+]
